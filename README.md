@@ -92,7 +92,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Satya1824/Satya1824/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Satya1824/Satya1824/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
@@ -101,7 +101,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Satya1824.Satya1824&left_color=thistle&left_text=👁️"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Satya1824.Satya1824&left_color=crimson&left_text=Visits"  />
 </div>
 
 ###
