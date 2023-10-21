@@ -67,7 +67,7 @@
 
 ###
 
-<h3 align="center">🧑🏻‍💻 Connect With Me #</h3>
+<h3 align="center">🧑🏻‍💻 Social Links #</h3>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<img src="https://github.com/Satya1824/Satya1824/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Satya1824/Satya1824/output/snake.svg" alt="Snake animation" />
 
 ###
 
