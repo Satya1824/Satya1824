@@ -67,7 +67,7 @@
 
 ###
 
-<h3 align="center">🧑🏻‍💻 Social Links #</h3>
+<h3 align="center">🧑🏻‍💻 Connect With Me #</h3>
 
 ###
 
