@@ -92,7 +92,7 @@
 
 ###
 
-<img src="https://github.com/Satya1824/Satya1824/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Satya1824/Satya1824/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
