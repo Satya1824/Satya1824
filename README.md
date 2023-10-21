@@ -89,7 +89,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Satya1824/Satya1824/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Satya1824/Satya1824/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
